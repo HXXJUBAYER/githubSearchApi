@@ -1,0 +1,21 @@
+{
+  "name": "github-id-search-api",
+  "version": "1.0.0",
+  "description": "Simple GitHub ID search API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "github",
+    "id",
+    "api",
+    "search"
+  ],
+  "author": "Jubayer Ahmed",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
